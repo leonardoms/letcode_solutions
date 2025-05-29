@@ -1,4 +1,4 @@
-# 🧠 LeetCode Training: Do C ao C++
+# 🧠 LeetCode Training: C++
 
 Este repositório é um guia evolutivo para migrar do C para o C++ usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
