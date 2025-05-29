@@ -4,7 +4,7 @@ Este repositório é um guia evolutivo para migrar do C para o C++ usando proble
 
 ### ✅ Progresso: 4/40 problemas resolvidos
 
-[████                                        ] 10%
+[████····································] 10%
 
 ---
 
