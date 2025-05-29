@@ -74,7 +74,7 @@ Este repositório é um guia evolutivo para migrar do C para o C++ usando proble
 ## 🧩 6. Programação Dinâmica
 
 - **Easy**
-  - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs)
+  - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs) - 💡 [Solução](/solutions/3%20-%20dp/0070_climbing-stairs.cpp)
   - [House Robber (198)](https://leetcode.com/problems/house-robber)
 - **Medium**
   - [Coin Change (322)](https://leetcode.com/problems/coin-change)
