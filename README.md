@@ -7,8 +7,8 @@ Este repositório é um guia evolutivo para migrar do C para o C++ usando proble
 ## 🔰 1. Fundamentos de Arrays e Vetores
 
 - **Easy**
-  - [Two Sum (1)](https://leetcode.com/problems/two-sum) - 💡 [Solução](solutions\1 - arrays\0001_Two-Sum_Easy.cpp)
-  - [Remove Duplicates from Sorted Array (26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - 💡 [Solução](solutions\1 - arrays\0026_Remove-Dup-Sorted-Arr_Easy.cpp)
+  - [Two Sum (1)](https://leetcode.com/problems/two-sum) - 💡 [Solução](solutions/1 - arrays/0001_Two-Sum_Easy.cpp)
+  - [Remove Duplicates from Sorted Array (26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - 💡 [Solução](solutions/1 - arrays/0026_Remove-Dup-Sorted-Arr_Easy.cpp)
 - **Medium**
   - [Jump Game (55)](https://leetcode.com/problems/jump-game)
   - [Container With Most Water (11)](https://leetcode.com/problems/container-with-most-water)
