@@ -1,6 +1,6 @@
 # 🧠 LeetCode Training: Do C ao C++
 
-Este repositório é um guia evolutivo para migrar do C para o C++ usando problemas do LeetCode, organizados por tema e dificuldade.
+Este repositório é um guia evolutivo para migrar do C para o C++ usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
 ---
 
@@ -8,7 +8,7 @@ Este repositório é um guia evolutivo para migrar do C para o C++ usando proble
 
 - **Easy**
   - [Two Sum (1)](https://leetcode.com/problems/two-sum) - 💡 [Solução](C++/0001_Two-Sum_Easy.cpp)
-  - [Remove Duplicates from Sorted Array (26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+  - [Remove Duplicates from Sorted Array (26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - 💡 [Solução](C++/0026_Remove-Dup-Sorted-Arr_Easy.cpp)
 - **Medium**
   - [Jump Game (55)](https://leetcode.com/problems/jump-game)
   - [Container With Most Water (11)](https://leetcode.com/problems/container-with-most-water)
