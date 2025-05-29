@@ -2,6 +2,10 @@
 
 Este repositório é um guia evolutivo para migrar do C para o C++ usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
+### ✅ Progresso: 4/40 problemas resolvidos
+
+[████                                        ] 10%
+
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
