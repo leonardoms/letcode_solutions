@@ -78,7 +78,7 @@ Este repositório é um guia evolutivo para migrar do C para o C++ usando proble
 
 - **Easy**
   - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs) - 💡 [Solução](/solutions/3%20-%20dp/0070_climbing-stairs.cpp)
-  - [House Robber (198)](https://leetcode.com/problems/house-robber)
+  - [House Robber (198)](https://leetcode.com/problems/house-robber) - 💡 [Solução](/solutions/3%20-%20dp/0198_house-robber.cpp)
 - **Medium**
   - [Coin Change (322)](https://leetcode.com/problems/coin-change)
   - [Longest Increasing Subsequence (300)](https://leetcode.com/problems/longest-increasing-subsequence)
