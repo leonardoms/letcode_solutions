@@ -2,7 +2,7 @@
 
 Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 10/40 problemas resolvidos
+### ✅ Progresso: 11/40 problemas resolvidos
 
 [███████████─────────────────────────────] 28%
 ---
