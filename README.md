@@ -80,7 +80,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
   - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs) - 💡 [Solução](/solutions/3%20-%20dp/0070_climbing-stairs.cpp)
   - [House Robber (198)](https://leetcode.com/problems/house-robber) - 💡 [Solução](/solutions/3%20-%20dp/0198_house-robber.cpp)
 - **Medium**
-  - [Coin Change (322)](https://leetcode.com/problems/coin-change)
+  - [Coin Change (322)](https://leetcode.com/problems/coin-change) - 💡 [Solução](/solutions/3%20-%20dp/0322_coin-change.cpp)
   - [Longest Increasing Subsequence (300)](https://leetcode.com/problems/longest-increasing-subsequence)
 - **Hard**
   - [Edit Distance (72)](https://leetcode.com/problems/edit-distance)
