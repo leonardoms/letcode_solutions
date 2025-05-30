@@ -4,7 +4,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 
 ### ✅ Progresso: 10/40 problemas resolvidos
 
-[██████████──────────────────────────────] 25%
+[███████████─────────────────────────────] 28%
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
@@ -25,7 +25,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 
 - **Easy**
   - [Valid Palindrome (125)](https://leetcode.com/problems/valid-palindrome) - ✅ [Solução](/solutions/2%20-%20strings/0125_valid-palindrome.cpp)
-  - [Implement strStr() (28)](https://leetcode.com/problems/implement-strstr)
+  - [Implement strStr() (28)](https://leetcode.com/problems/implement-strstr) - ✅ [Solução](/solutions/2%20-%20strings/0028_implement-strstr.cpp)
 - **Medium**
   - [Longest Substring Without Repeating Characters (3)](https://leetcode.com/problems/longest-substring-without-repeating-characters)
   - [Group Anagrams (49)](https://leetcode.com/problems/group-anagrams)
