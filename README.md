@@ -1,6 +1,6 @@
 # 🧠 LeetCode Training: C++
 
-Este repositório é um guia evolutivo para migrar do C para o C++ usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
+Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
 ### ✅ Progresso: 6/40 problemas resolvidos
 
