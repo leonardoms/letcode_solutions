@@ -2,9 +2,9 @@
 
 Este repositório é um guia evolutivo para migrar do C para o C++ usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 4/40 problemas resolvidos
+### ✅ Progresso: 6/40 problemas resolvidos
 
-[████────────────────────────────────────] 10%
+[██████──────────────────────────────────] 15%
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
@@ -24,7 +24,7 @@ Este repositório é um guia evolutivo para migrar do C para o C++ usando proble
 ## 🔁 2. Strings e Caracteres
 
 - **Easy**
-  - [Valid Palindrome (125)](https://leetcode.com/problems/valid-palindrome)
+  - [Valid Palindrome (125)](https://leetcode.com/problems/valid-palindrome) - 💡 [Solução](/solutions/2%20-%20strings/0125_valid-palindrome.cpp)
   - [Implement strStr() (28)](https://leetcode.com/problems/implement-strstr)
 - **Medium**
   - [Longest Substring Without Repeating Characters (3)](https://leetcode.com/problems/longest-substring-without-repeating-characters)

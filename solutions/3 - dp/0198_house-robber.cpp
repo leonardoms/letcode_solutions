@@ -7,7 +7,8 @@ public:
         int dp_n;
 
         for(auto& num : nums) {
-            dp_n = max(dp_n_1, dp_n_2 + num);
+            // what is the best rob: dp(n-1) or get dp(n)+dp(n-2) ?
+            dp_n = std::max(dp_n_1, dp_n_2 + num);
             dp_n_2 = dp_n_1;
             dp_n_1 = dp_n;
         }
