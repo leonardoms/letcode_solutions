@@ -2,18 +2,18 @@
 
 Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 6/40 problemas resolvidos
+### ✅ Progresso: 7/40 problemas resolvidos
 
-[██████──────────────────────────────────] 15%
+[███████─────────────────────────────────] 18%
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
 
 - **Easy**
-  - [Two Sum (1)](https://leetcode.com/problems/two-sum) - 💡 [Solução](/solutions/1%20-%20arrays/0001_Two-Sum.cpp)
-  - [Remove Duplicates from Sorted Array (26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - 💡 [Solução](/solutions/1%20-%20arrays/0026_Remove-Dup-Sorted-Arr.cpp)
+  - [Two Sum (1)](https://leetcode.com/problems/two-sum) - ✅ [Solução](/solutions/1%20-%20arrays/0001_Two-Sum.cpp)
+  - [Remove Duplicates from Sorted Array (26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - ✅ [Solução](/solutions/1%20-%20arrays/0026_Remove-Dup-Sorted-Arr.cpp)
 - **Medium**
-  - [Jump Game (55)](https://leetcode.com/problems/jump-game) - 💡 [Solução](/solutions/1%20-%20arrays/0055_jump-game.cpp)
+  - [Jump Game (55)](https://leetcode.com/problems/jump-game) - ✅ [Solução](/solutions/1%20-%20arrays/0055_jump-game.cpp)
   - [Container With Most Water (11)](https://leetcode.com/problems/container-with-most-water)
 - **Hard**
   - [First Missing Positive (41)](https://leetcode.com/problems/first-missing-positive)
@@ -24,7 +24,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 ## 🔁 2. Strings e Caracteres
 
 - **Easy**
-  - [Valid Palindrome (125)](https://leetcode.com/problems/valid-palindrome) - 💡 [Solução](/solutions/2%20-%20strings/0125_valid-palindrome.cpp)
+  - [Valid Palindrome (125)](https://leetcode.com/problems/valid-palindrome) - ✅ [Solução](/solutions/2%20-%20strings/0125_valid-palindrome.cpp)
   - [Implement strStr() (28)](https://leetcode.com/problems/implement-strstr)
 - **Medium**
   - [Longest Substring Without Repeating Characters (3)](https://leetcode.com/problems/longest-substring-without-repeating-characters)
@@ -77,10 +77,10 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 ## 🧩 6. Programação Dinâmica
 
 - **Easy**
-  - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs) - 💡 [Solução](/solutions/3%20-%20dp/0070_climbing-stairs.cpp)
-  - [House Robber (198)](https://leetcode.com/problems/house-robber) - 💡 [Solução](/solutions/3%20-%20dp/0198_house-robber.cpp)
+  - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs) - ✅ [Solução](/solutions/3%20-%20dp/0070_climbing-stairs.cpp)
+  - [House Robber (198)](https://leetcode.com/problems/house-robber) - ✅ [Solução](/solutions/3%20-%20dp/0198_house-robber.cpp)
 - **Medium**
-  - [Coin Change (322)](https://leetcode.com/problems/coin-change) - 💡 [Solução](/solutions/3%20-%20dp/0322_coin-change.cpp)
+  - [Coin Change (322)](https://leetcode.com/problems/coin-change) - ✅ [Solução](/solutions/3%20-%20dp/0322_coin-change.cpp)
   - [Longest Increasing Subsequence (300)](https://leetcode.com/problems/longest-increasing-subsequence)
 - **Hard**
   - [Edit Distance (72)](https://leetcode.com/problems/edit-distance)
