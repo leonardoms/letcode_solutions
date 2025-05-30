@@ -2,9 +2,9 @@
 
 Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 8/40 problemas resolvidos
+### ✅ Progresso: 10/40 problemas resolvidos
 
-[████████────────────────────────────────] 20%
+[██████████──────────────────────────────] 25%
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
@@ -65,7 +65,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 ## 📚 5. Busca e Ordenação
 
 - **Easy**
-  - [Merge Sorted Array (88)](https://leetcode.com/problems/merge-sorted-array) - ✅ [Solução](/solutions/5%20-sorting/0088_merge-sorted-array.cpp)
+  - [Merge Sorted Array (88)](https://leetcode.com/problems/merge-sorted-array) - ✅ [Solução](/solutions/5%20-%20sorting/0088_merge-sorted-array.cpp)
 - **Medium**
   - [Search in Rotated Sorted Array (33)](https://leetcode.com/problems/search-in-rotated-sorted-array)
   - [Kth Largest Element in an Array (215)](https://leetcode.com/problems/kth-largest-element-in-an-array)
@@ -91,9 +91,9 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 ## 🎯 7. Bit Manipulation
 
 - **Easy**
-  - [Single Number (136)](https://leetcode.com/problems/single-number)
+  - [Single Number (136)](https://leetcode.com/problems/single-number) - ✅ [Solução](/solutions/7%20-%20bit/0136_single-number.cpp)
 - **Medium**
-  - [Sum of Two Integers (371)](https://leetcode.com/problems/sum-of-two-integers)
+  - [Sum of Two Integers (371)](https://leetcode.com/problems/sum-of-two-integers) - ✅ [Solução](/solutions/7%20-%20bit/0371_sum-of-two-integers.cpp)
 - **Hard**
   - [Maximum XOR of Two Numbers in an Array (421)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)
 
