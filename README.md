@@ -2,9 +2,9 @@
 
 Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 7/40 problemas resolvidos
+### ✅ Progresso: 8/40 problemas resolvidos
 
-[███████─────────────────────────────────] 18%
+[████████────────────────────────────────] 20%
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
@@ -65,7 +65,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 ## 📚 5. Busca e Ordenação
 
 - **Easy**
-  - [Merge Sorted Array (88)](https://leetcode.com/problems/merge-sorted-array)
+  - [Merge Sorted Array (88)](https://leetcode.com/problems/merge-sorted-array) - ✅ [Solução](/solutions/5%20-sorting/0088_merge-sorted-array.cpp)
 - **Medium**
   - [Search in Rotated Sorted Array (33)](https://leetcode.com/problems/search-in-rotated-sorted-array)
   - [Kth Largest Element in an Array (215)](https://leetcode.com/problems/kth-largest-element-in-an-array)
