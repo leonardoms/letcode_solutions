@@ -2,9 +2,9 @@
 
 Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 11/40 problemas resolvidos
+### ✅ Progresso: 12/40 problemas resolvidos
 
-[███████████─────────────────────────────] 28%
+[████████████────────────────────────────] 30%
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
@@ -38,7 +38,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 ## 🧠 3. Pilhas, Filas e Deques
 
 - **Easy**
-  - [Valid Parentheses (20)](https://leetcode.com/problems/valid-parentheses)
+  - [Valid Parentheses (20)](https://leetcode.com/problems/valid-parentheses) - ✅ [Solução](/solutions/3%20-%20stacks/0020_valid-parentheses.cpp)
   - [Implement Queue using Stacks (232)](https://leetcode.com/problems/implement-queue-using-stacks)
 - **Medium**
   - [Daily Temperatures (739)](https://leetcode.com/problems/daily-temperatures)
@@ -77,10 +77,10 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
 ## 🧩 6. Programação Dinâmica
 
 - **Easy**
-  - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs) - ✅ [Solução](/solutions/3%20-%20dp/0070_climbing-stairs.cpp)
-  - [House Robber (198)](https://leetcode.com/problems/house-robber) - ✅ [Solução](/solutions/3%20-%20dp/0198_house-robber.cpp)
+  - [Climbing Stairs (70)](https://leetcode.com/problems/climbing-stairs) - ✅ [Solução](/solutions/36%20-%20dp/0070_climbing-stairs.cpp)
+  - [House Robber (198)](https://leetcode.com/problems/house-robber) - ✅ [Solução](/solutions/6%20-%20dp/0198_house-robber.cpp)
 - **Medium**
-  - [Coin Change (322)](https://leetcode.com/problems/coin-change) - ✅ [Solução](/solutions/3%20-%20dp/0322_coin-change.cpp)
+  - [Coin Change (322)](https://leetcode.com/problems/coin-change) - ✅ [Solução](/solutions/6%20-%20dp/0322_coin-change.cpp)
   - [Longest Increasing Subsequence (300)](https://leetcode.com/problems/longest-increasing-subsequence)
 - **Hard**
   - [Edit Distance (72)](https://leetcode.com/problems/edit-distance)
