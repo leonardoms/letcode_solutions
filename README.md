@@ -2,9 +2,9 @@
 
 Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 13/40 problemas resolvidos
+### ✅ Progresso: 14/40 problemas resolvidos
 
-[█████████████───────────────────────────] 33%
+`[██████████████──────────────────────────] 35%`
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
@@ -81,7 +81,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
   - [House Robber (198)](https://leetcode.com/problems/house-robber) - ✅ [Solução](/solutions/6%20-%20dp/0198_house-robber.cpp)
 - **Medium**
   - [Coin Change (322)](https://leetcode.com/problems/coin-change) - ✅ [Solução](/solutions/6%20-%20dp/0322_coin-change.cpp)
-  - [Longest Increasing Subsequence (300)](https://leetcode.com/problems/longest-increasing-subsequence)
+  - [Longest Increasing Subsequence (300)](https://leetcode.com/problems/longest-increasing-subsequence) - ✅ [Solução](/solutions/6%20-%20dp/0300_longest-increasing-subsequence.cpp)
 - **Hard**
   - [Edit Distance (72)](https://leetcode.com/problems/edit-distance)
   - [Burst Balloons (312)](https://leetcode.com/problems/burst-balloons)
