@@ -2,9 +2,9 @@
 
 Este repositório é um guia evolutivo usando problemas do LeetCode, composto por 40 desafios organizados por tema e dificuldade.
 
-### ✅ Progresso: 12/40 problemas resolvidos
+### ✅ Progresso: 13/40 problemas resolvidos
 
-[████████████────────────────────────────] 30%
+[█████████████───────────────────────────] 33%
 ---
 
 ## 🔰 1. Fundamentos de Arrays e Vetores
@@ -27,7 +27,7 @@ Este repositório é um guia evolutivo usando problemas do LeetCode, composto po
   - [Valid Palindrome (125)](https://leetcode.com/problems/valid-palindrome) - ✅ [Solução](/solutions/2%20-%20strings/0125_valid-palindrome.cpp)
   - [Implement strStr() (28)](https://leetcode.com/problems/implement-strstr) - ✅ [Solução](/solutions/2%20-%20strings/0028_implement-strstr.cpp)
 - **Medium**
-  - [Longest Substring Without Repeating Characters (3)](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+  - [Longest Substring Without Repeating Characters (3)](https://leetcode.com/problems/longest-substring-without-repeating-characters) - ✅ [Solução](/solutions/2%20-%20strings/0003_longest-substring.cpp)
   - [Group Anagrams (49)](https://leetcode.com/problems/group-anagrams)
 - **Hard**
   - [Minimum Window Substring (76)](https://leetcode.com/problems/minimum-window-substring)
